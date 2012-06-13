@@ -1,6 +1,6 @@
 package Acme::stickpin;
 
-use 5.10
+use 5.006;
 use strict;
 use warnings;
 
@@ -10,11 +10,11 @@ Acme::stickpin - The great new Acme::stickpin!
 
 =head1 VERSION
 
-Version 0.02
+Version 0.01
 
 =cut
 
-our $VERSION = '0.02';
+our $VERSION = '0.01';
 
 
 =head1 SYNOPSIS
