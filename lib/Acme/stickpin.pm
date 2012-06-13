@@ -1,6 +1,6 @@
 package Acme::stickpin;
 
-use 5.10
+use 5.10;
 use strict;
 use warnings;
 
@@ -10,11 +10,11 @@ Acme::stickpin - Testing
 
 =head1 VERSION
 
-Version 0.02
+Version 0.02_02
 
 =cut
 
-our $VERSION = '0.02_01';
+our $VERSION = '0.02_02';
 
 
 =head1 SYNOPSIS
