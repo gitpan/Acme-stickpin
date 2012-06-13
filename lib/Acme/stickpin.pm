@@ -1,20 +1,20 @@
 package Acme::stickpin;
 
-use 5.006;
+use 5.10
 use strict;
 use warnings;
 
 =head1 NAME
 
-Acme::stickpin - The great new Acme::stickpin!
+Acme::stickpin - Testing
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02_01';
 
 
 =head1 SYNOPSIS
